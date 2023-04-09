@@ -13,6 +13,8 @@ gradle-app.setting
 /server/build/
 /shared/build/
 
+/assets/doom1.wad
+
 ## Java:
 *.class
 *.war
